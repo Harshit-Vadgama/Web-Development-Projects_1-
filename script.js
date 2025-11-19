@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (registerForm) {
         registerForm.addEventListener("submit", function (e) {
-            e.preventDefault();
+           
 
             alert("Thank you! Your form has been submitted successfully.");
 
