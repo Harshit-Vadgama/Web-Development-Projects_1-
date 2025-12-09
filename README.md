@@ -1,3 +1,3 @@
-# Web-Development-Projects-
-All Web-Dev Projects in this repo
-Novatech university registration website
+# Novatech-University-registration-website 
+
+Novatech university registration website which is made by @Harshit Vadgama using HTML5, CSS, JavaScript, Bootstrap responsiveness.
